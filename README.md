@@ -43,8 +43,8 @@
 ```
 
 __일지 양식:__\
-[Makers_팀일지_양식.docx]((https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_%EC%96%91%EC%8B%9D.docx)
-)\
+[Makers_팀일지_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_%EC%96%91%EC%8B%9D.docx)
+\
 [노션 주소](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab?pvs=4#292761685171428eaf08498f0cc31c72): SMARCLE의 Notion/Study Room/N팀/페어1, 2
 
 ### 대면 관련사항
