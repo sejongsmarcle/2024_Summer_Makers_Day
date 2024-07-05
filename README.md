@@ -57,7 +57,7 @@ __일지 양식:__\
 ```
 
 __해결 방안서:__\
-[Makers_정기발표내용정리_양식.docx](___)
+[Makers_정기발표내용정리_양식.docx](___)\
 [Makers_불참해결방안서_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EC%96%91%EC%8B%9D.docx)
 
 
