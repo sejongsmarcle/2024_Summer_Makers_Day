@@ -18,34 +18,35 @@
 ```python
 1. 메이커스데이는 모두 대면으로 이루어진다.
 	- 5회 중 최소 3회 이상 필참해야 한다.
-	- 정기 발표 불참자는 최소 1주 전에 팀원,운영진에게 해당 사실을 알리고, 그 주 발표 영상 내용을 양식에 따라 10줄로 작성하여 운영진에게 제출한다.
+	- 정기 발표 불참자는 최소 1주 전에 팀원,운영진에게 해당 사실을 알리고, 그 주 발표 영상 내용을 아래 양식(A)에 따라 10줄로 작성하여 운영진에게 제출한다.
 	- 새싹 해커톤 본선 참여로 인한 결석은 정기 발표 참여로 인정한다.
 	# 비대면 참여자의 경우 Teams를 통해 정기 발표에 참여한다.
 	# 비대면 참여자는 중간/최종발표에 반드시 대면 참여한다.
 
-2. 정기 발표 시에 각 팀의 진행상황을 공유한다.
-	- 발표자료는 노션을 활용한다.
-	- 주간 활동 내용을 아래 노션 주소에 정리한다. (파일로 업로드 X)
+2. 정기 발표 시에 각 팀의 진행 상황을 공유한다.
+	- 발표 자료로 노션을 활용한다.
+	- 주간 활동 내용을 아래 노션 주소에 정리한다. (파일, 링크로 업로드 X)
 	- 중간, 최종 발표를 포함한 5번의 발표에서 모든 팀원은 적어도 한 번씩 발표해야 한다.
 	
-3. 매주 팀 활동 1회를 한 후 팀 일지를 필수로 진행해야 한다.
-	- 일지는 양식에 맞춰 각 주 일요일 23:59까지 본 깃허브 해당 주차에 업로드해야 인정된다.
+3. 매주 팀 활동을 1회 이상 진행한 후 팀 일지를 필수로 작성해야 한다.
+	- 일지를 양식에 맞춰 각 주 일요일 23:59까지 본 깃허브 해당 주차에 업로드해야 인정된다.
 	- 참여한 인원이 나온 대면 사진을 팀 일지에 첨부해야 한다.
-	- 팀 활동 불참 예정자는 최소 1주 전에 팀원, 운영진에게 해당 사실을 알리고 자신의 공백에 대한 해결 방안서를 작성한다.
-	- 운영진 메일: smarcle2023@gmail.com
+	- 팀 활동 불참 예정자는 최소 1주 전에 팀원, 운영진에게 해당 사실을 알리고 아래 양식(B)에 따라 자신의 공백에 대한 해결 방안서를 작성하여 운영진에게 제출한다.
 	# 비대면 팀의 경우 비대면 사진도 허용한다.
 
 4. 팀 활동이므로 각 팀에서 위 규칙을 2회 이상 지키지 않은 팀원은 메이커스데이 활동에서 제외하고 동아리 경고 1회를 부여한다.
 ```
-
+__운영진 메일:__ \
+smarcle2023@gmail.com <br/><br/>
 __일지 양식:__\
 [Makers_팀일지_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_N%EC%A3%BC%EC%B0%A8_N%EC%A1%B0.docx)
-\
+<br/><br/>
 __해결 방안서:__\
-[Makers_정기발표내용정리_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EC%A0%95%EA%B8%B0%EB%B0%9C%ED%91%9C%EA%B2%B0%EC%84%9D%EC%82%AC%EC%9C%A0%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)\
-[Makers_불참해결방안서_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)\
+[A 양식_정기발표내용정리](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EC%A0%95%EA%B8%B0%EB%B0%9C%ED%91%9C%EA%B2%B0%EC%84%9D%EC%82%AC%EC%9C%A0%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)\
+[B 양식_불참해결방안서](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)
+<br/><br/>
 __발표 자료:__\
-[노션 주소](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab?pvs=4#292761685171428eaf08498f0cc31c72): SMARCLE의 Notion/Study Room/N팀
+[SMARCLE의 Notion/Study Room/N팀](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab?pvs=4#292761685171428eaf08498f0cc31c72)
 
 ---
 
