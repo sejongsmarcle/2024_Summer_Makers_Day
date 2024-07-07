@@ -37,7 +37,7 @@
 ```
 
 __일지 양식:__\
-[Makers_팀일지_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_%EC%96%91%EC%8B%9D.docx)
+[Makers_팀일지_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_N%EC%A3%BC%EC%B0%A8_N%EC%A1%B0.docx)
 \
 [노션 주소](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab?pvs=4#292761685171428eaf08498f0cc31c72): SMARCLE의 Notion/Study Room/N팀
 
@@ -57,8 +57,8 @@ __일지 양식:__\
 ```
 
 __해결 방안서:__\
-[Makers_정기발표내용정리_양식.docx](____)\
-[Makers_불참해결방안서_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EC%96%91%EC%8B%9D.docx)
+[Makers_정기발표내용정리_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EC%A0%95%EA%B8%B0%EB%B0%9C%ED%91%9C%EA%B2%B0%EC%84%9D%EC%82%AC%EC%9C%A0%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)\
+[Makers_불참해결방안서_양식.docx](https://github.com/sejongsmarcle/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EA%B9%80%EB%A7%88%ED%81%B4.docx)
 
 
 ---
